@@ -1,0 +1,149 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/*header*/
+.container-logo{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: aqua;
+  min-height: 50px;
+  padding: 0 15px;
+  
+}
+
+ul{
+  display: flex;
+  flex-wrap: wrap;
+  list-style: none;
+}
+
+li{
+  padding: 3px;
+}
+
+.container-jumbotron{
+  background-color: blue;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  padding: 20px;
+
+}
+
+.jumbotron{
+  background-color: orange;
+  min-height: 200px;
+  min-width: 700px;
+  display: flex;
+}
+
+/*main*/
+aside{
+  background-color: wheat;
+  min-height: 200px;
+  min-width: 700px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.aside2{
+  background-color: white;
+  min-height: 200px;
+  min-width: 700px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.photo{
+  background-color: green;
+  min-height: 200px;
+  min-width: 400px;
+  display: flex;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.text{
+  background-color: blueviolet;
+  min-height: 200px;
+  min-width: 300px;
+  display: flex;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.central-box{
+  background-color: green;
+  min-height: 400px;
+  min-width: 700px;
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+/*footer*/
+
+.end-box{
+  background-color: salmon;
+  min-height: 200px;
+  min-width: 700px;
+  display: flex;
+  align-items: 
+}
+
+.end-list{
+  background-color: aqua;
+  min-height: 200px;
+  min-width: 550px;
+  display: flex;
+  justify-content: space-between;
+
+  margin-left: 3px;
+}
+
+.text-end{
+  background-color: blueviolet;
+  min-height: 200px;
+  min-width: 150px;
+  display: flex;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.ul-end1{
+  margin: 3px;
+  border: 2px;
+}
+.ul-end1{
+  margin: 3px;
+  border: 2px;
+}
+.ul-end1{
+  margin: 3px;
+  
+}
+.ul-end1{
+  margin: 3px;
+  border: 2px;
+}
+
+.last-row{
+  background-color: blue;
+  min-height: 50px;
+  min-width: 700px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 400px;
+}
+span{
+  background-color: rgb(22, 184, 109);
+  display: flex;
+  
+}
